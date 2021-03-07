@@ -1,12 +1,16 @@
-# 云开发 quickstart
+# date_time_picker
 
-这是云开发的快速启动指引，其中演示了如何上手使用云开发的三大基础能力：
+客户要做一个预约功能
+看了git上的一些date_time_picker觉得不是很好
+自己写了一个component
+基于微信小程序的原生多列选择器；
+可以自己选择
+  --可预约的日期范围
+  --预约时间的步长，step
+  --每天最早预约时间
+  --每天最晚预约时间
 
-- 数据库：一个既可在小程序前端操作，也能在云函数中读写的 JSON 文档型数据库
-- 文件存储：在小程序前端直接上传/下载云端文件，在云开发控制台可视化管理
-- 云函数：在云端运行的代码，微信私有协议天然鉴权，开发者只需编写业务逻辑代码
+具体实现思路，请看components下的date_time_picker组件
 
-## 参考文档
-
-- [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
+##有用请给个Star～～
 
