@@ -1,0 +1,9 @@
+<!--components/date_time_picker/date_time_picker.wxml-->
+
+
+<picker mode="multiSelector" bindchange="date_time_change" class="picker"
+  bindcolumnchange="date_time_column_change" value="{{date_time_index_array}}" range="{{date_time}}">
+  <view>
+    {{date_time[0][date_time_index_array[0]]}} {{date_time[1][date_time_index_array[1]]}}
+  </view>
+</picker>

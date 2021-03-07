@@ -1,0 +1,9 @@
+/* components/date_time_picker/date_time_picker.wxss */
+.picker{
+  float: right;
+  width: 80%;
+  padding: 20rpx 5%;
+  margin: 20rpx 5%;
+  border-radius: 10rpx;
+  border: 1rpx solid gray;
+}

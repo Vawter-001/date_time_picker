@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "date_time_picker":"../../components/date_time_picker/date_time_picker"
+  },
+  "enablePullDownRefresh": false
+}
