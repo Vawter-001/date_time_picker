@@ -1,5 +1,7 @@
 # date_time_picker
 
+#### 带图介绍：：：
+#### https://developers.weixin.qq.com/community/develop/article/doc/00040203c082c88df9cbc25c65b813
 #### 客户要做一个预约功能
 #### 看了git上的一些date_time_picker觉得不是很好
 #### 自己写了一个component
